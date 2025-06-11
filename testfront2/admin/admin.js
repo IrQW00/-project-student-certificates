@@ -39,6 +39,58 @@ const fakeRequests = [
       copies: 1,
       place: "по месту требования",
       date: "03.04.2025"
+    },
+    {
+      fullName: "Иванова Екатарина Ивановна",
+      snils: "123-456-789 00",
+      birthDate: "01.01.2000",
+      faculty: "Факультет математики",
+      group: "МТ-101",
+      email: "ivanov@example.com",
+      phone: "+7 900 123-45-67",
+      type: "Справка студента",
+      copies: 2,
+      place: "по месту требования",
+      date: "05.04.2025"
+    },
+    {
+      fullName: "Петрова София Ивановна",
+      snils: "321-654-987 11",
+      birthDate: "12.05.2001",
+      faculty: "Факультет экономики",
+      group: "ЭуК-202",
+      email: "petrova@example.com",
+      phone: "8 901 222-33-44",
+      type: "Справка об обучении",
+      copies: 1,
+      place: "по месту требования",
+      date: "01.04.2025"
+    },
+    {
+      fullName: "Иванов Иван Иванович",
+      snils: "123-456-789 00",
+      birthDate: "01.01.2000",
+      faculty: "Факультет математики",
+      group: "МТ-101",
+      email: "ivanov@example.com",
+      phone: "+7 900 123-45-67",
+      type: "Справка студента",
+      copies: 2,
+      place: "по месту требования",
+      date: "05.04.2025"
+    },
+    {
+      fullName: "Петрова Анна Сергеевна",
+      snils: "321-654-987 11",
+      birthDate: "12.05.2001",
+      faculty: "Факультет экономики",
+      group: "ЭуК-202",
+      email: "petrova@example.com",
+      phone: "8 901 222-33-44",
+      type: "Справка об обучении",
+      copies: 1,
+      place: "по месту требования",
+      date: "01.04.2025"
     }
   ];
   
